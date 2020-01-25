@@ -6,7 +6,7 @@ using UnityEngine;
  * (Christopher Green)
  * (EnemyManager.cs)
  * (Assignment 1)
- * (This code is the driver for the entire program.)
+ * (This code is the driver for the entire program. It's what runs the methods)
  */
 
 public class EnemyManager : MonoBehaviour
