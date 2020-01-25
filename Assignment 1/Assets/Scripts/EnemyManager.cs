@@ -33,6 +33,8 @@ public class EnemyManager : MonoBehaviour
         enemyList.Add(new Troll());
         enemyList.Add(new Goblin());
         enemyList.Add(new Troll());
+        enemyList.Add(new Goblin());
+        enemyList.Add(new Spider());
         enemyList.Add(new Spider());
 
         canStabList.Add(new Troll());
